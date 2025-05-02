@@ -1,0 +1,8 @@
+python/workspace/modelsim
+python/workspace/modelsim/*
+**/__pycache__
+.vscode/*
+*.code-workspace
+workspace/vivado/projectflow
+workspace/vivado/projecflow/*
+*.sv.bak
