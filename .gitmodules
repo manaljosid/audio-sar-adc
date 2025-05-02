@@ -1,0 +1,3 @@
+[submodule "lib/sv-ethernet"]
+	path = lib/sv-ethernet
+	url = https://github.com/manaljosid/sv-ethernet.git
